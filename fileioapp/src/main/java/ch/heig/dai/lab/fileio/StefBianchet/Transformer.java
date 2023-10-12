@@ -23,8 +23,10 @@ public class Transformer {
      * @return the transformed string
      */
     public String replaceChuck(String source) {
-        // TODO: Implement the method body here.
-        return "";
+
+        String oldName = "Chuck Norris";
+
+        return source.replaceAll(oldName,newName);
     }
 
     /**
@@ -33,8 +35,28 @@ public class Transformer {
      * @return the transformed string
      */
     public String capitalizeWords(String source) {
-        // TODO: Implement the method body here.
-        return "";
+
+        // https://www.geeksforgeeks.org/capitalise-the-first-and-last-character-of-each-word-in-a-string/
+        // Create an equivalent char array
+        // of given string
+        char[] ch = source.toCharArray();
+        for (int i = 0; i < ch.length; i++) {
+
+            // k stores index of first character
+            // and i is going to store index of last
+            // character.
+            int k = i;
+            while (i < ch.length && ch[i] != ' ')
+                i++;
+
+            // Check if the character is a lowercase letter
+            // If yes, then Capitalise
+            ch[k] = (char)(ch[k] >= 'a' && ch[k] <= 'z'
+                    ? ((int)ch[k] - 32)
+                    : (int)ch[k]);
+        }
+
+        return new String(ch);
     }
 
     /**
