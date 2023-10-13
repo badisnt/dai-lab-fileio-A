@@ -36,27 +36,15 @@ public class Transformer {
      */
     public String capitalizeWords(String source) {
 
-        // https://www.geeksforgeeks.org/capitalise-the-first-and-last-character-of-each-word-in-a-string/
-        // Create an equivalent char array
-        // of given string
-        char[] ch = source.toCharArray();
-        for (int i = 0; i < ch.length; i++) {
-
-            // k stores index of first character
-            // and i is going to store index of last
-            // character.
-            int k = i;
-            while (i < ch.length && ch[i] != ' ')
-                i++;
-
-            // Check if the character is a lowercase letter
-            // If yes, then Capitalise
-            ch[k] = (char)(ch[k] >= 'a' && ch[k] <= 'z'
-                    ? ((int)ch[k] - 32)
-                    : (int)ch[k]);
+        String[] words = source.split(" ");
+        StringBuilder capitalizeWord = new StringBuilder();
+        for(String w:words){
+            String first = w.substring(0,1);
+            String afterfirst = w.substring(1);
+            capitalizeWord.append(first.toUpperCase()).append(afterfirst).append(" ");
         }
 
-        return new String(ch);
+        return capitalizeWord.toString().trim();
     }
 
     /**
@@ -66,8 +54,33 @@ public class Transformer {
      * @return the transformed string
      */
     public String wrapAndNumberLines(String source) {
-        // TODO: Implement the method body here.
+
+        String[] words = source.split(" ");
+        StringBuilder createLines = new StringBuilder();
+
+        int wordIndex = 0;
+        int lineNumber = 1;
+
+        for (String w : words){
+
+            if ((wordIndex % numWordsPerLine) == 0)
+                createLines.append(lineNumber++).append(". ");
+
+            createLines.append(w);
+            wordIndex++;
+
+            if ((wordIndex % numWordsPerLine) == 0)
+                createLines.append("\n");
+            else
+                createLines.append(" ");
+        }
+
+        createLines.deleteCharAt(createLines.length() - 1);
+
+        createLines.append("\n");
+
+
         // Use the StringBuilder class to build the result string.
-        return "";
+        return createLines.toString();
     }
 }   
