@@ -36,7 +36,7 @@ public class Transformer {
      */
     public String capitalizeWords(String source) {
         
-        if ( source.isEmpty()) {
+        if (source.isEmpty()) {
             return source;
         }
 
@@ -64,11 +64,26 @@ public class Transformer {
      * @return the transformed string
      */
     public String wrapAndNumberLines(String source) {
-        // Use the StringBuilder class to build the result string.
+        if (source == null || source.isEmpty() || numWordsPerLine <= 0) {
+            return source;
+        }
 
+        String[] words = source.split("\s+");
+        StringBuilder result = new StringBuilder();
+        int wordCount = 0;
+        int lineCount = 1;
+        result.append(lineCount).append(".");
 
+        for (String word : words){
+            if (wordCount == numWordsPerLine) {
+                // Start a new line and increment the line number
+                result.append("\n").append(++lineCount).append(".");
+                wordCount = 0;
+            }
+            result.append(" " + word);
+            wordCount++;
+        }
 
-
-        return "";
+        return result.append("\n").toString();
     }
-}   
+}
