@@ -23,7 +23,6 @@ public class FileReaderWriter {
             String line;
             while ((line = reader.readLine()) != null) {
                 builder.append(line);
-                builder.append('\n');
             }
             reader.close();
             return builder.toString();
