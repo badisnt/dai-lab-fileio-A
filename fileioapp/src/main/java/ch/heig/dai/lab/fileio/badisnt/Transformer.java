@@ -50,8 +50,19 @@ public class Transformer {
      * @return the transformed string
      */
     public String wrapAndNumberLines(String source) {
-        // TODO: Implement the method body here.
-        // Use the StringBuilder class to build the result string.
-        return "";
+        if (source==null||source.length()==0||numWordsPerLine<1) return source;
+        StringBuilder res = new StringBuilder();
+        String words[] = source.split(" ");
+        
+        for(int i=0;i<words.length;i++){
+            if (i % numWordsPerLine == 0){
+                if (i>0) res.append("\n");
+                res.append(String.valueOf(i / numWordsPerLine+1)+".");
+            }
+            res.append(" ");
+            res.append(words[i]);
+        }
+        res.append("\n");
+        return res.toString();
     }
 }   
