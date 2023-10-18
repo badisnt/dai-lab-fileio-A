@@ -1,0 +1,4 @@
+2023.10.18 08:42:52 INFO  Started: Metals version 1.1.0 in folders 'C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp' for client Visual Studio Code 1.83.0.
+2023.10.18 08:42:54 WARN  Build server is not auto-connectable.
+Oct 18, 2023 8:42:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
