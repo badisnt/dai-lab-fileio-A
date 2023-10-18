@@ -1805,3 +1805,924 @@ SEVERE: A severe compiler error occurred, full details of the error can be found
 2023.10.18 10:37:09 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\main\java\ch\heig\dai\lab\fileio\badisnt\FileReaderWriter.java
 Oct 18, 2023 10:37:09 AM scala.meta.internal.pc.CompilerAccess handleError
 SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-37-09-287.md
+Oct 18, 2023 10:41:22 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-41-22-513.md
+2023.10.18 10:42:18 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\main\java\ch\heig\dai\lab\fileio\badisnt\Transformer.java
+Oct 18, 2023 10:42:18 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-42-18-929.md
+Oct 18, 2023 10:42:19 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-42-19-420.md
+2023.10.18 10:42:23 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\test\java\ch\heig\dai\lab\fileio\badisnt\TransformerTest.java
+Oct 18, 2023 10:42:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-42-23-406.md
+Oct 18, 2023 10:42:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-42-23-974.md
+Oct 18, 2023 10:42:24 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-42-24-821.md
+Oct 18, 2023 10:42:25 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-42-25-131.md
+Oct 18, 2023 10:43:24 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-43-24-032.md
+Oct 18, 2023 10:43:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-43-28-121.md
+Oct 18, 2023 10:43:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-43-31-451.md
+Oct 18, 2023 10:45:18 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-18-409.md
+Oct 18, 2023 10:45:20 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-20-776.md
+Oct 18, 2023 10:45:21 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-21-575.md
+Oct 18, 2023 10:45:22 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-22-474.md
+Oct 18, 2023 10:45:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-23-123.md
+Oct 18, 2023 10:45:24 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-24-326.md
+Oct 18, 2023 10:45:25 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-25-849.md
+Oct 18, 2023 10:45:26 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-26-279.md
+Oct 18, 2023 10:45:26 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-26-700.md
+Oct 18, 2023 10:45:26 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-26-975.md
+Oct 18, 2023 10:45:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-27-169.md
+Oct 18, 2023 10:45:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-27-631.md
+Oct 18, 2023 10:45:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-29-445.md
+Oct 18, 2023 10:45:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-30-000.md
+Oct 18, 2023 10:45:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-34-164.md
+Oct 18, 2023 10:45:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-34-841.md
+Oct 18, 2023 10:45:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-45-59-597.md
+Oct 18, 2023 10:46:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-46-23-830.md
+Oct 18, 2023 10:46:26 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-46-26-985.md
+Oct 18, 2023 10:46:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-46-29-249.md
+Oct 18, 2023 10:46:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-46-29-680.md
+Oct 18, 2023 10:46:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-46-32-152.md
+Oct 18, 2023 10:46:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-46-32-390.md
+Oct 18, 2023 10:46:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-46-32-812.md
+Oct 18, 2023 10:46:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-46-33-977.md
+Oct 18, 2023 10:46:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-46-34-433.md
+Oct 18, 2023 10:46:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-46-36-577.md
+Oct 18, 2023 10:46:40 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-46-40-668.md
+Oct 18, 2023 10:46:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-46-52-059.md
+Oct 18, 2023 10:46:54 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-46-54-059.md
+Oct 18, 2023 10:48:38 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-48-38-924.md
+Oct 18, 2023 10:48:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-48-43-856.md
+Oct 18, 2023 10:48:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-48-46-185.md
+Oct 18, 2023 10:48:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-48-46-587.md
+2023.10.18 10:48:47 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\test\java\ch\heig\dai\lab\fileio\badisnt\TransformerTest.java
+Oct 18, 2023 10:48:47 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-48-47-185.md
+Oct 18, 2023 10:49:00 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-49-00-716.md
+Oct 18, 2023 10:49:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-49-04-336.md
+Oct 18, 2023 10:49:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-49-07-017.md
+Oct 18, 2023 10:49:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-49-08-264.md
+2023.10.18 10:49:08 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\main\java\ch\heig\dai\lab\fileio\badisnt\Transformer.java
+Oct 18, 2023 10:49:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-49-08-393.md
+Oct 18, 2023 10:49:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-49-08-597.md
+2023.10.18 10:49:11 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\main\java\ch\heig\dai\lab\fileio\badisnt\Transformer.java
+Oct 18, 2023 10:49:11 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-49-11-587.md
+Oct 18, 2023 10:49:14 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-49-14-252.md
+Oct 18, 2023 10:49:22 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-49-21-999.md
+Oct 18, 2023 10:49:54 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-49-54-925.md
+Oct 18, 2023 10:49:58 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-49-58-310.md
+Oct 18, 2023 10:49:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-49-59-939.md
+Oct 18, 2023 10:50:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-05-416.md
+Oct 18, 2023 10:50:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-07-559.md
+Oct 18, 2023 10:50:09 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-09-066.md
+Oct 18, 2023 10:50:11 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-11-117.md
+Oct 18, 2023 10:50:11 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-11-858.md
+Oct 18, 2023 10:50:12 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-12-586.md
+Oct 18, 2023 10:50:13 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-13-360.md
+Oct 18, 2023 10:50:13 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-13-661.md
+Oct 18, 2023 10:50:13 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-13-986.md
+Oct 18, 2023 10:50:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-16-758.md
+Oct 18, 2023 10:50:20 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-20-566.md
+Oct 18, 2023 10:50:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-23-248.md
+Oct 18, 2023 10:50:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-23-696.md
+Oct 18, 2023 10:50:24 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-24-773.md
+Oct 18, 2023 10:50:26 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-26-566.md
+Oct 18, 2023 10:50:26 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-26-886.md
+Oct 18, 2023 10:50:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-28-195.md
+Oct 18, 2023 10:50:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-28-317.md
+Oct 18, 2023 10:50:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-28-671.md
+Oct 18, 2023 10:50:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-29-178.md
+Oct 18, 2023 10:50:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-29-944.md
+Oct 18, 2023 10:50:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-30-532.md
+Oct 18, 2023 10:50:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-31-356.md
+Oct 18, 2023 10:50:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-31-945.md
+Oct 18, 2023 10:50:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-33-903.md
+Oct 18, 2023 10:50:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-34-036.md
+Oct 18, 2023 10:50:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-36-443.md
+2023.10.18 10:50:37 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\main\java\ch\heig\dai\lab\fileio\badisnt\Transformer.java
+Oct 18, 2023 10:50:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-37-196.md
+Oct 18, 2023 10:50:40 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-40-581.md
+Oct 18, 2023 10:50:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-46-600.md
+Oct 18, 2023 10:50:47 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-47-645.md
+Oct 18, 2023 10:50:48 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-48-386.md
+Oct 18, 2023 10:50:50 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-50-890.md
+Oct 18, 2023 10:50:50 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-50-994.md
+Oct 18, 2023 10:50:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-51-151.md
+Oct 18, 2023 10:50:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-51-251.md
+Oct 18, 2023 10:50:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-51-367.md
+Oct 18, 2023 10:50:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-51-479.md
+Oct 18, 2023 10:50:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-51-514.md
+Oct 18, 2023 10:50:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-52-431.md
+Oct 18, 2023 10:50:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-53-254.md
+Oct 18, 2023 10:50:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-53-518.md
+Oct 18, 2023 10:50:55 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-55-662.md
+Oct 18, 2023 10:50:55 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-55-826.md
+Oct 18, 2023 10:50:57 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-57-218.md
+Oct 18, 2023 10:50:57 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-57-446.md
+Oct 18, 2023 10:50:57 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-57-558.md
+Oct 18, 2023 10:50:57 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-57-876.md
+Oct 18, 2023 10:50:57 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-57-981.md
+Oct 18, 2023 10:50:58 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-58-755.md
+Oct 18, 2023 10:50:58 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-50-58-903.md
+Oct 18, 2023 10:51:00 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-00-336.md
+Oct 18, 2023 10:51:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-01-151.md
+Oct 18, 2023 10:51:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-01-546.md
+Oct 18, 2023 10:51:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-02-076.md
+Oct 18, 2023 10:51:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-02-600.md
+2023.10.18 10:51:04 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\main\java\ch\heig\dai\lab\fileio\badisnt\Transformer.java
+Oct 18, 2023 10:51:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-04-321.md
+Oct 18, 2023 10:51:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-07-661.md
+Oct 18, 2023 10:51:10 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-10-418.md
+Oct 18, 2023 10:51:22 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-22-256.md
+Oct 18, 2023 10:51:22 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-22-600.md
+Oct 18, 2023 10:51:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-23-470.md
+Oct 18, 2023 10:51:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-23-507.md
+Oct 18, 2023 10:51:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-23-656.md
+Oct 18, 2023 10:51:24 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-24-035.md
+Oct 18, 2023 10:51:24 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-24-603.md
+Oct 18, 2023 10:51:24 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-24-786.md
+Oct 18, 2023 10:51:25 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-25-934.md
+Oct 18, 2023 10:51:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-27-576.md
+Oct 18, 2023 10:51:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-28-626.md
+Oct 18, 2023 10:51:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-28-811.md
+Oct 18, 2023 10:51:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-29-226.md
+Oct 18, 2023 10:51:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-30-249.md
+Oct 18, 2023 10:51:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-30-326.md
+Oct 18, 2023 10:51:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-30-758.md
+Oct 18, 2023 10:51:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-31-082.md
+Oct 18, 2023 10:51:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-31-300.md
+Oct 18, 2023 10:51:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-31-604.md
+Oct 18, 2023 10:51:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-32-036.md
+Oct 18, 2023 10:51:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-33-100.md
+Oct 18, 2023 10:51:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-33-779.md
+Oct 18, 2023 10:51:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-34-272.md
+Oct 18, 2023 10:51:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-34-756.md
+Oct 18, 2023 10:51:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-35-451.md
+Oct 18, 2023 10:51:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-36-296.md
+Oct 18, 2023 10:51:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-37-576.md
+Oct 18, 2023 10:51:49 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-49-698.md
+Oct 18, 2023 10:51:50 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-50-076.md
+Oct 18, 2023 10:51:50 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-50-926.md
+Oct 18, 2023 10:51:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-51-51-286.md
+Oct 18, 2023 10:54:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-16-256.md
+Oct 18, 2023 10:54:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-16-656.md
+Oct 18, 2023 10:54:17 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-17-221.md
+Oct 18, 2023 10:54:20 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-19-979.md
+Oct 18, 2023 10:54:20 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-20-413.md
+Oct 18, 2023 10:54:21 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-21-051.md
+Oct 18, 2023 10:54:21 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-21-726.md
+Oct 18, 2023 10:54:22 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-22-166.md
+Oct 18, 2023 10:54:25 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-25-299.md
+Oct 18, 2023 10:54:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-27-484.md
+Oct 18, 2023 10:54:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-28-238.md
+Oct 18, 2023 10:54:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-29-068.md
+Oct 18, 2023 10:54:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-31-251.md
+Oct 18, 2023 10:54:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-33-003.md
+Oct 18, 2023 10:54:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-33-428.md
+Oct 18, 2023 10:54:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-33-895.md
+Oct 18, 2023 10:54:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-54-34-771.md
+Oct 18, 2023 10:55:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-02-324.md
+Oct 18, 2023 10:55:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-02-757.md
+Oct 18, 2023 10:55:03 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-03-590.md
+Oct 18, 2023 10:55:03 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-03-863.md
+Oct 18, 2023 10:55:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-04-269.md
+Oct 18, 2023 10:55:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-04-796.md
+Oct 18, 2023 10:55:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-05-314.md
+Oct 18, 2023 10:55:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-05-547.md
+Oct 18, 2023 10:55:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-05-598.md
+Oct 18, 2023 10:55:06 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-06-026.md
+Oct 18, 2023 10:55:06 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-06-620.md
+Oct 18, 2023 10:55:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-07-186.md
+Oct 18, 2023 10:55:14 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-14-393.md
+Oct 18, 2023 10:55:14 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-14-676.md
+Oct 18, 2023 10:55:14 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-14-811.md
+Oct 18, 2023 10:55:14 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-14-847.md
+Oct 18, 2023 10:55:15 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-15-066.md
+Oct 18, 2023 10:55:15 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-15-201.md
+Oct 18, 2023 10:55:15 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-15-256.md
+Oct 18, 2023 10:55:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-16-142.md
+Oct 18, 2023 10:55:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-16-636.md
+Oct 18, 2023 10:55:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-16-975.md
+Oct 18, 2023 10:55:17 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-17-135.md
+Oct 18, 2023 10:55:17 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-17-325.md
+Oct 18, 2023 10:55:17 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-17-686.md
+Oct 18, 2023 10:55:17 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-17-996.md
+Oct 18, 2023 10:55:18 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-18-157.md
+Oct 18, 2023 10:55:18 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-18-258.md
+Oct 18, 2023 10:55:19 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-19-086.md
+Oct 18, 2023 10:55:19 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-19-301.md
+Oct 18, 2023 10:55:19 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-19-750.md
+Oct 18, 2023 10:55:22 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-22-830.md
+Oct 18, 2023 10:55:25 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-25-216.md
+Oct 18, 2023 10:55:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-28-726.md
+Oct 18, 2023 10:55:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-29-156.md
+Oct 18, 2023 10:55:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-29-899.md
+Oct 18, 2023 10:55:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-30-975.md
+Oct 18, 2023 10:55:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-31-189.md
+Oct 18, 2023 10:55:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-31-418.md
+Oct 18, 2023 10:55:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-32-034.md
+Oct 18, 2023 10:55:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-32-379.md
+Oct 18, 2023 10:55:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-34-067.md
+Oct 18, 2023 10:55:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-34-475.md
+Oct 18, 2023 10:55:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-35-272.md
+Oct 18, 2023 10:55:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-35-729.md
+Oct 18, 2023 10:55:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-35-917.md
+Oct 18, 2023 10:55:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-36-351.md
+Oct 18, 2023 10:55:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-36-512.md
+Oct 18, 2023 10:55:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-36-795.md
+Oct 18, 2023 10:55:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-36-949.md
+Oct 18, 2023 10:55:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-37-354.md
+Oct 18, 2023 10:55:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-37-552.md
+Oct 18, 2023 10:55:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-37-667.md
+Oct 18, 2023 10:55:38 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-38-409.md
+Oct 18, 2023 10:55:38 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-38-974.md
+Oct 18, 2023 10:55:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-43-759.md
+Oct 18, 2023 10:55:44 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-44-224.md
+Oct 18, 2023 10:55:44 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-44-259.md
+Oct 18, 2023 10:55:44 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-44-675.md
+Oct 18, 2023 10:55:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-45-217.md
+Oct 18, 2023 10:55:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-45-465.md
+Oct 18, 2023 10:55:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-45-641.md
+Oct 18, 2023 10:55:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-45-667.md
+Oct 18, 2023 10:55:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-45-941.md
+Oct 18, 2023 10:55:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-46-073.md
+Oct 18, 2023 10:55:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-46-242.md
+Oct 18, 2023 10:55:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-46-351.md
+Oct 18, 2023 10:55:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-46-381.md
+Oct 18, 2023 10:55:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-46-477.md
+Oct 18, 2023 10:55:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-46-623.md
+Oct 18, 2023 10:55:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-46-913.md
+Oct 18, 2023 10:55:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-46-983.md
+Oct 18, 2023 10:55:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-51-168.md
+Oct 18, 2023 10:55:57 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-57-782.md
+Oct 18, 2023 10:55:58 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-58-331.md
+Oct 18, 2023 10:55:58 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-55-58-916.md
+Oct 18, 2023 10:56:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-01-222.md
+Oct 18, 2023 10:56:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-01-693.md
+Oct 18, 2023 10:56:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-02-176.md
+Oct 18, 2023 10:56:03 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-03-257.md
+Oct 18, 2023 10:56:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-04-423.md
+Oct 18, 2023 10:56:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-04-866.md
+Oct 18, 2023 10:56:06 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-06-148.md
+Oct 18, 2023 10:56:06 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-06-569.md
+Oct 18, 2023 10:56:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-07-087.md
+Oct 18, 2023 10:56:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-07-746.md
+Oct 18, 2023 10:56:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-08-478.md
+Oct 18, 2023 10:56:10 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-10-086.md
+Oct 18, 2023 10:56:12 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-12-415.md
+Oct 18, 2023 10:56:13 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-13-480.md
+Oct 18, 2023 10:56:26 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-26-146.md
+Oct 18, 2023 10:56:26 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-26-885.md
+Oct 18, 2023 10:56:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-27-646.md
+Oct 18, 2023 10:56:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-28-133.md
+Oct 18, 2023 10:56:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-28-601.md
+Oct 18, 2023 10:56:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-29-381.md
+Oct 18, 2023 10:56:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-29-442.md
+Oct 18, 2023 10:56:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-30-070.md
+Oct 18, 2023 10:56:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-30-419.md
+Oct 18, 2023 10:56:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-30-977.md
+Oct 18, 2023 10:56:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-32-417.md
+Oct 18, 2023 10:56:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-35-426.md
+Oct 18, 2023 10:56:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-35-855.md
+Oct 18, 2023 10:56:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-36-093.md
+Oct 18, 2023 10:56:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-36-396.md
+Oct 18, 2023 10:56:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-36-859.md
+Oct 18, 2023 10:56:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-37-364.md
+Oct 18, 2023 10:56:39 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-39-508.md
+Oct 18, 2023 10:56:40 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-40-212.md
+Oct 18, 2023 10:56:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-42-107.md
+Oct 18, 2023 10:56:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-43-019.md
+Oct 18, 2023 10:56:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-43-155.md
+Oct 18, 2023 10:56:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-43-466.md
+Oct 18, 2023 10:56:44 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-44-245.md
+Oct 18, 2023 10:56:44 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-44-338.md
+Oct 18, 2023 10:56:44 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-44-806.md
+Oct 18, 2023 10:56:44 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-44-883.md
+Oct 18, 2023 10:56:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-45-355.md
+Oct 18, 2023 10:56:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-45-934.md
+Oct 18, 2023 10:56:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-46-066.md
+Oct 18, 2023 10:56:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-46-349.md
+Oct 18, 2023 10:56:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-46-949.md
+Oct 18, 2023 10:56:47 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-47-082.md
+Oct 18, 2023 10:56:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-51-093.md
+Oct 18, 2023 10:56:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-52-140.md
+Oct 18, 2023 10:56:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-53-372.md
+Oct 18, 2023 10:56:54 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-54-215.md
+Oct 18, 2023 10:56:54 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-54-810.md
+Oct 18, 2023 10:56:55 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-55-662.md
+Oct 18, 2023 10:56:57 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-56-57-898.md
+Oct 18, 2023 10:57:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-02-202.md
+Oct 18, 2023 10:57:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-02-788.md
+Oct 18, 2023 10:57:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-05-050.md
+Oct 18, 2023 10:57:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-05-718.md
+Oct 18, 2023 10:57:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-07-784.md
+Oct 18, 2023 10:57:12 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-12-728.md
+Oct 18, 2023 10:57:12 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-12-996.md
+Oct 18, 2023 10:57:13 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-13-203.md
+Oct 18, 2023 10:57:13 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-13-892.md
+Oct 18, 2023 10:57:14 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-14-556.md
+Oct 18, 2023 10:57:15 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-15-417.md
+Oct 18, 2023 10:57:22 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-22-940.md
+Oct 18, 2023 10:57:24 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-24-718.md
+2023.10.18 10:57:25 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\main\java\ch\heig\dai\lab\fileio\badisnt\Transformer.java
+Oct 18, 2023 10:57:25 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-25-956.md
+Oct 18, 2023 10:57:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-27-719.md
+Oct 18, 2023 10:57:44 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-44-382.md
+Oct 18, 2023 10:57:47 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-47-769.md
+Oct 18, 2023 10:57:47 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-47-955.md
+Oct 18, 2023 10:57:48 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-48-356.md
+Oct 18, 2023 10:57:48 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-48-727.md
+Oct 18, 2023 10:57:48 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-48-849.md
+Oct 18, 2023 10:57:48 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-48-879.md
+Oct 18, 2023 10:57:49 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-49-853.md
+Oct 18, 2023 10:57:50 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-50-941.md
+Oct 18, 2023 10:57:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-52-258.md
+Oct 18, 2023 10:57:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-52-508.md
+Oct 18, 2023 10:57:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-53-034.md
+Oct 18, 2023 10:57:57 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-57-855.md
+2023.10.18 10:57:57 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\main\java\ch\heig\dai\lab\fileio\badisnt\Transformer.java
+Oct 18, 2023 10:57:58 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-58-035.md
+Oct 18, 2023 10:57:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-57-59-185.md
+Oct 18, 2023 10:58:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-58-01-856.md
+Oct 18, 2023 10:58:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-58-02-292.md
+Oct 18, 2023 10:58:03 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-58-03-274.md
+Oct 18, 2023 10:58:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-58-04-468.md
+Oct 18, 2023 10:58:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-58-04-984.md
+Oct 18, 2023 10:58:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-58-05-824.md
+2023.10.18 10:58:06 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\test\java\ch\heig\dai\lab\fileio\badisnt\TransformerTest.java
+2023.10.18 10:58:06 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\test\java\ch\heig\dai\lab\fileio\badisnt\TransformerTest.java
+Oct 18, 2023 10:58:06 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-58-06-876.md
+Oct 18, 2023 10:58:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-58-07-390.md
+Oct 18, 2023 10:58:41 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-58-41-315.md
+Oct 18, 2023 10:58:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-58-42-945.md
+Oct 18, 2023 10:58:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-58-43-340.md
+Oct 18, 2023 10:58:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-58-51-507.md
+Oct 18, 2023 10:58:56 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-58-56-405.md
+Oct 18, 2023 10:58:56 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-58-56-526.md
+Oct 18, 2023 10:59:00 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-59-00-144.md
+Oct 18, 2023 10:59:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-59-02-230.md
+Oct 18, 2023 10:59:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-59-02-797.md
+Oct 18, 2023 10:59:03 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-59-03-471.md
+Oct 18, 2023 10:59:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-59-05-347.md
+Oct 18, 2023 10:59:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-59-08-238.md
+Oct 18, 2023 10:59:15 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-59-15-578.md
+Oct 18, 2023 10:59:17 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-59-17-653.md
+2023.10.18 10:59:17 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\main\java\ch\heig\dai\lab\fileio\badisnt\Transformer.java
+Oct 18, 2023 10:59:18 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-59-18-028.md
+Oct 18, 2023 10:59:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-59-35-865.md
+Oct 18, 2023 10:59:40 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_10-59-40-495.md
+Oct 18, 2023 11:00:10 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-10-071.md
+Oct 18, 2023 11:00:10 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-10-480.md
+Oct 18, 2023 11:00:13 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-13-481.md
+Oct 18, 2023 11:00:14 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-14-805.md
+Oct 18, 2023 11:00:18 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-18-343.md
+Oct 18, 2023 11:00:18 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-18-415.md
+Oct 18, 2023 11:00:18 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-18-790.md
+Oct 18, 2023 11:00:19 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-19-211.md
+Oct 18, 2023 11:00:19 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-19-670.md
+Oct 18, 2023 11:00:19 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-19-730.md
+Oct 18, 2023 11:00:20 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-20-170.md
+Oct 18, 2023 11:00:22 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-22-596.md
+Oct 18, 2023 11:00:24 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-24-070.md
+Oct 18, 2023 11:00:24 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-24-258.md
+Oct 18, 2023 11:00:24 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-24-694.md
+Oct 18, 2023 11:00:25 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-25-162.md
+Oct 18, 2023 11:00:26 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-26-483.md
+Oct 18, 2023 11:00:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-27-621.md
+Oct 18, 2023 11:00:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-28-275.md
+Oct 18, 2023 11:00:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-29-681.md
+Oct 18, 2023 11:00:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-30-833.md
+Oct 18, 2023 11:00:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-31-741.md
+Oct 18, 2023 11:00:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-32-054.md
+Oct 18, 2023 11:00:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-33-234.md
+Oct 18, 2023 11:00:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-33-324.md
+Oct 18, 2023 11:00:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-33-764.md
+Oct 18, 2023 11:00:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-36-705.md
+Oct 18, 2023 11:00:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-45-646.md
+Oct 18, 2023 11:00:47 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-47-557.md
+2023.10.18 11:00:48 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\main\java\ch\heig\dai\lab\fileio\badisnt\Transformer.java
+Oct 18, 2023 11:00:48 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-48-416.md
+Oct 18, 2023 11:00:48 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-48-706.md
+Oct 18, 2023 11:00:48 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-48-896.md
+Oct 18, 2023 11:00:49 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-49-935.md
+Oct 18, 2023 11:00:50 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-50-039.md
+Oct 18, 2023 11:00:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-51-053.md
+Oct 18, 2023 11:00:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-51-645.md
+Oct 18, 2023 11:00:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-52-695.md
+Oct 18, 2023 11:00:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-52-835.md
+Oct 18, 2023 11:00:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-53-895.md
+Oct 18, 2023 11:00:54 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-54-258.md
+Oct 18, 2023 11:00:55 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-55-445.md
+Oct 18, 2023 11:00:55 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-55-686.md
+Oct 18, 2023 11:00:56 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-56-738.md
+Oct 18, 2023 11:00:57 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-57-157.md
+Oct 18, 2023 11:00:58 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-58-318.md
+Oct 18, 2023 11:00:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-00-59-570.md
+Oct 18, 2023 11:01:00 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-01-00-165.md
+Oct 18, 2023 11:01:00 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-01-00-816.md
+Oct 18, 2023 11:01:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-01-01-305.md
+Oct 18, 2023 11:01:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-01-02-080.md
+Oct 18, 2023 11:01:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-01-02-898.md
+Oct 18, 2023 11:01:03 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-01-03-711.md
+Oct 18, 2023 11:01:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-01-04-135.md
+Oct 18, 2023 11:01:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-01-04-776.md
+Oct 18, 2023 11:01:09 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-01-09-593.md
+Oct 18, 2023 11:01:10 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-01-10-133.md
+Oct 18, 2023 11:01:10 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-01-10-730.md
+Oct 18, 2023 11:01:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-01-27-134.md
+Oct 18, 2023 11:01:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-01-27-536.md
+Oct 18, 2023 11:01:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-01-28-246.md
+Oct 18, 2023 11:02:00 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-00-226.md
+Oct 18, 2023 11:02:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-01-852.md
+Oct 18, 2023 11:02:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-01-976.md
+Oct 18, 2023 11:02:03 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-03-064.md
+Oct 18, 2023 11:02:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-04-477.md
+Oct 18, 2023 11:02:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-05-010.md
+Oct 18, 2023 11:02:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-05-515.md
+Oct 18, 2023 11:02:06 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-06-051.md
+Oct 18, 2023 11:02:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-08-539.md
+Oct 18, 2023 11:02:10 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-10-247.md
+2023.10.18 11:02:12 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\main\java\ch\heig\dai\lab\fileio\badisnt\Transformer.java
+Oct 18, 2023 11:02:12 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-12-470.md
+Oct 18, 2023 11:02:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-30-815.md
+Oct 18, 2023 11:02:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-30-935.md
+Oct 18, 2023 11:02:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-31-519.md
+Oct 18, 2023 11:02:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-32-221.md
+Oct 18, 2023 11:02:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-32-762.md
+2023.10.18 11:02:32 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\main\java\ch\heig\dai\lab\fileio\badisnt\Transformer.java
+Oct 18, 2023 11:02:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-32-920.md
+Oct 18, 2023 11:02:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-37-125.md
+Oct 18, 2023 11:02:38 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-38-578.md
+Oct 18, 2023 11:02:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-42-350.md
+Oct 18, 2023 11:02:44 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-44-423.md
+Oct 18, 2023 11:02:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-45-334.md
+Oct 18, 2023 11:02:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-45-595.md
+Oct 18, 2023 11:02:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-46-055.md
+Oct 18, 2023 11:02:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-02-46-572.md
+Oct 18, 2023 11:03:00 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-03-00-012.md
+2023.10.18 11:03:00 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\main\java\ch\heig\dai\lab\fileio\badisnt\Transformer.java
+Oct 18, 2023 11:03:00 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-03-00-553.md
+Oct 18, 2023 11:03:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-03-01-813.md
+Oct 18, 2023 11:03:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-03-33-625.md
+Oct 18, 2023 11:03:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-03-34-780.md
+Oct 18, 2023 11:03:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-03-51-373.md
+Oct 18, 2023 11:03:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-03-53-187.md
+Oct 18, 2023 11:03:55 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-03-55-856.md
+Oct 18, 2023 11:03:56 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-03-56-497.md
+Oct 18, 2023 11:03:58 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-03-58-755.md
+Oct 18, 2023 11:03:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-03-59-250.md
+Oct 18, 2023 11:03:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-03-59-757.md
+Oct 18, 2023 11:04:00 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-04-00-460.md
+Oct 18, 2023 11:04:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-04-01-416.md
+Oct 18, 2023 11:04:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-04-01-975.md
+Oct 18, 2023 11:04:06 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-04-06-796.md
+Oct 18, 2023 11:04:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4240
+2023.10.18 11:04:10 WARN  no build target for: C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\src\main\java\ch\heig\dai\lab\fileio\badisnt\Transformer.java
+Oct 18, 2023 11:04:10 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\badis\Desktop\heigvd\daidai\dai-lab-fileio-A\fileioapp\.metals\.reports\metals-full\2023-10-18\r_compiler-error_11-04-10-234.md

@@ -23,8 +23,8 @@ public class Transformer {
      * @return the transformed string
      */
     public String replaceChuck(String source) {
-        // TODO: Implement the method body here.
-        return "";
+        String chuckNorris ="Chuck Norris";
+        return source.replaceAll(chuckNorris, newName);
     }
 
     /**
@@ -33,8 +33,14 @@ public class Transformer {
      * @return the transformed string
      */
     public String capitalizeWords(String source) {
-        // TODO: Implement the method body here.
-        return "";
+        for(int i=0;i<source.length();i++){
+            if(i==0 || source.charAt(i-1)== ' '){
+                source=source.substring(0, i)
+                        + Character.toUpperCase(source.charAt(i))
+                        + source.substring(i+1, source.length());
+            }
+        }
+        return source;
     }
 
     /**
